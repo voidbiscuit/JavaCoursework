@@ -1,0 +1,2 @@
+The program can either be run using just the .jar, the .bat with the launch parameters specified in the specification or there is a button in the user guide, contained in the guide (ctrl + click).
+The Javadoc can either be opened in this folder, or also at the top of the document. The javadoc contains a link to the .pdf file containing the specification.
